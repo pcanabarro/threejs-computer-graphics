@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "gl": "^8.1.6",
+    "three": "^0.176.0",
+    "vite": "^6.3.5"
+  },
+  "name": "threejs-computer-graphics",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
