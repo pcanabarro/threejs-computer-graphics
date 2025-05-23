@@ -10,6 +10,7 @@
   "main": "main.js",
   "devDependencies": {},
   "scripts": {
+    "start": "vite .",
     "dev": "vite",
     "test": "echo \"No tests yet\""
   },
